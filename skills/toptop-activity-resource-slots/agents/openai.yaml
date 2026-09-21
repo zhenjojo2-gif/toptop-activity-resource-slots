@@ -1,0 +1,4 @@
+interface:
+  display_name: "TOPTOP 活动资源位制作"
+  short_description: "按固定视觉规范制作资源位，支持模板适配与 Kivi 主视觉延展、多国家排版"
+  default_prompt: "请使用 $toptop-activity-resource-slots，根据本次设计稿、需求和翻译表制作资源位，并按我选择的模板适配或主视觉延展模式执行。"
