@@ -51,4 +51,6 @@ https://github.com/zhenjojo2-gif/toptop-activity-resource-slots/tree/main/skills
 
 首页弹窗背景仅需头图、750×825弹窗框及一句合成提示词；增高只延长中段，保持上下装饰比例。以用户修订稿的实际属性更新版式基线。活动时间直接使用需求表“活动时间（本地）”原文，保留年份与各国格式，不自行简写或换算。
 
+同一活动续做复用已核对的数据、素材与版式，只更新变化字段；按模式加载参考文档，批量读取/写入并采用增量验收。Kivi 复用现有参考，按任务状态退避轮询，避免重复上传、重复生成和重复截图。
+
 技能入口：[SKILL.md](skills/toptop-activity-resource-slots/SKILL.md)
